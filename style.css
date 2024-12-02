@@ -254,7 +254,7 @@ body {
 }
 
 .carousel-inner img {
-    height: 775px;
+    height: 130vh;
     object-fit: cover;
 }
 
